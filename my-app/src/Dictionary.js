@@ -82,7 +82,7 @@ export default function Dictionary(props) {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/shecodesio/dictionary"
+            href="https://github.com/clairenicholson078/claires-dictionary-app"
             target="_blank"
             rel="noopener noreferrer"
             class="footer"
@@ -91,7 +91,7 @@ export default function Dictionary(props) {
           </a>{" "}
           and{" "}
           <a
-            href="https://shecodes-dictionary.netlify.app/"
+            href="https://claires-dictionary.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
             class="footer"
