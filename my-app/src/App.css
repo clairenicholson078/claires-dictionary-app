@@ -38,8 +38,7 @@ section {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50vw;
-  max-width:90vw;
+  max-width:80vw;
   background-color: mediumaquamarine;
   border-radius: 5px;
   margin-top: 20px;
