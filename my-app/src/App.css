@@ -38,8 +38,8 @@ section {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  max-width:90%;
+  width: 50vw;
+  max-width:90vw;
   background-color: mediumaquamarine;
   border-radius: 5px;
   margin-top: 20px;
